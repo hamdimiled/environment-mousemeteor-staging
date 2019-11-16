@@ -1,0 +1,19 @@
+Creating GitHub webhook for hamdimiled/environment-mousemeteor-production for url http://jenkins.jx.146.148.62.13.nip.io/github-webhook/
+
+Jenkins X installation completed successfully
+
+
+	********************************************************
+
+	     NOTE: Your admin password is: s6AR3JMyTHZ4-k5Ev=ou
+
+	********************************************************
+
+	
+Your Kubernetes context is now set to the namespace: jx 
+To switch back to your original namespace use: jx namespace jx
+Or to use this context/namespace in just one terminal use: jx shell
+For help on switching contexts see: https://jenkins-x.io/developing/kube-context/
+To import existing projects into Jenkins:       jx import
+To create a new Spring Boot microservice:       jx create spring -d web -d actuator
+To create a new microservice from a quickstart: jx create quickstart
